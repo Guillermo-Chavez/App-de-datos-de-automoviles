@@ -1,2 +1,2 @@
 # App de datos de automoviles
-La app consiste en el uso de streamlist para la creacion de una app sobre automoviles con datos de precios, traccion, cilindro, etc. esta pagina web permite al usuario visualizar la imformacion de un csv mediante graficos dinamicos.
+Desarrollé una aplicación web interactiva con Streamlit para la visualización y análisis de datos de automóviles. La aplicación procesa un conjunto de datos en formato CSV con información como precio, tracción, número de cilindros, transmisión y otras características. Mediante gráficos dinámicos e interactivos, los usuarios pueden explorar los datos, identificar tendencias y comparar variables de forma sencilla, mejorando la comprensión del conjunto de datos y apoyando el análisis exploratorio (EDA).

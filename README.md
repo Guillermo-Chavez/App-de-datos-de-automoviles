@@ -1,2 +1,3 @@
 # App de datos de automoviles
 Desarrollé una aplicación web interactiva con Streamlit para la visualización y análisis de datos de automóviles. La aplicación procesa un conjunto de datos en formato CSV con información como precio, tracción, número de cilindros, transmisión y otras características. Mediante gráficos dinámicos e interactivos, los usuarios pueden explorar los datos, identificar tendencias y comparar variables de forma sencilla, mejorando la comprensión del conjunto de datos y apoyando el análisis exploratorio (EDA).
+https://web-site-p9yw.onrender.com
